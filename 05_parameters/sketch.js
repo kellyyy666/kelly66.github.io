@@ -1,10 +1,9 @@
 
 
 let dataServer;
-let pubKey = "YOUR PUBLISH KEY HERE";
-let subKey = "YOUR SUBSCRIBE KEY HERE";
-let secretKey = "YOUR SECRET KEY HERE";
-
+let pubKey = "pub-c-f7e4ffd6-e9bc-4c70-9fb8-4a120d50d91e";
+let subKey = "sub-c-1d418a72-3059-49cd-81cb-f2be471ebb2c";
+let secretKey = "sec-c-MjA3NzE3NWUtZDEyMC00NzY4LTg3MGQtZTE4NGY1NjIwN2I4";
 let channelName = "parameters";
 
 let you;
